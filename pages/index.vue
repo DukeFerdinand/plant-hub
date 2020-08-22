@@ -1,5 +1,5 @@
 <template>
-  <v-layout column justify-center align-center>
+  <v-layout>
     <h1>Future plant monitor</h1>
   </v-layout>
 </template>
